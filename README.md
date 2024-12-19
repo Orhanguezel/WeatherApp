@@ -5,9 +5,8 @@ This Weather App allows users to search for the current weather of any city. The
 ---
 
 ## **Demo**
-You can view a live demo of the application here: [Weather App Demo](https://your-demo-url.com)
+You can view a live demo of the application here: [Weather App Demo](https://orhanguezel.github.io/WeatherApp/)
 
-![Project Demo](./demo.png)
 
 ---
 
@@ -23,12 +22,12 @@ You can view a live demo of the application here: [Weather App Demo](https://you
 
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Orhanguezel/WeatherApp.git
 ```
 
 ### **2. Navigate to the project directory**
 ```bash
-cd weather-app
+cd WeatherApp
 ```
 
 ### **3. Install dependencies**
@@ -36,12 +35,6 @@ cd weather-app
 npm install
 ```
 
-### **4. Add your OpenWeatherMap API key**
-- Create a `.env` file in the root directory.
-- Add the following line to the `.env` file:
-```env
-API_KEY=your_api_key_here
-```
 
 ### **5. Run the application**
 Open the `index.html` file in your browser:
@@ -78,7 +71,7 @@ WeatherApp/
 
 ## **Screenshots**
 ### **Home Screen**
-![Weather App Demo](bg1.png)
+![Weather App Demo](demo.png)
 
 ---
 
