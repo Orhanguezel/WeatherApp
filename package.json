@@ -4,7 +4,8 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,8 @@
   "homepage": "https://github.com/Orhanguezel/WeatherApp#readme",
   "dependencies": {
     "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0"
   }
 }
